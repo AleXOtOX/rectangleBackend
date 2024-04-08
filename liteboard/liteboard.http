@@ -1,0 +1,6 @@
+@liteboard_HostAddress = http://localhost:5062
+
+GET {{liteboard_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
